@@ -1,4 +1,3 @@
-
 # 🗞️ Democracy News Lens
 
 **Democracy News Lens** is a modern, interactive web application designed to **gamify balanced news consumption** and tie user engagement to core **democratic health indicators**. The goal is to promote more informed citizens by making the experience of reading diverse and credible news sources **fun, rewarding, and educational**.
@@ -117,3 +116,29 @@ This application integrates with the **NewsFeed API** to deliver real-time, poli
 ## 🖼️ Example of Democracy Lens
 
 ![screenshot](Images/HomePage.png)
+
+---
+
+## 👥 Contributors
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/ammadhassan1/">
+        <img src="https://avatars.githubusercontent.com/u/68733309?v=4" width="80px;" alt="Ammad Hassan"/>
+        <br />
+        <sub><b>Ammad Hassan</b></sub>
+      </a>
+      <br />
+      <a href="https://x.com/ammadeth" target="_blank">🐦 Twitter</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/made-with-javascript.svg" />
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</p>
